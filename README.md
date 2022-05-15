@@ -1,5 +1,4 @@
-### Hi there 👋
-## CE Student 💻
+## CE Student 💻 & Backend Developer
 ### Intrested in ❤️
   - Python,Go,C,C++
   - Databases like , elasticsearch,mongoDB,mySQL,...
