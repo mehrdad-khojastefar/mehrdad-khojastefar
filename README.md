@@ -1,5 +1,5 @@
 ## CE Student 💻 & Backend Developer
-### Intrested in ❤️
+### In ❤️ with 
   - Python,Go,C,C++
   - Databases like , elasticsearch,mongoDB,mySQL,...
   - Operating systems and kernels 🐧
