@@ -4,6 +4,8 @@
   - Databases : elasticsearch,mongoDB,mySQL,...
   - Operating systems and kernels 🐧
   - ...
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [![wakatime](https://wakatime.com/badge/user/aab396e2-627a-4de7-be08-8fd1d0ceed67.svg)](https://wakatime.com/@aab396e2-627a-4de7-be08-8fd1d0ceed67)
 <!--
