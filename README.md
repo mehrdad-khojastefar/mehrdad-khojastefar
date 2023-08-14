@@ -1,4 +1,4 @@
-## CE Student 💻 & Backend Developer
+## Curious Software Enginner
 ### In ❤️ with 
   - Python,Go,C,C++
   - Databases : elasticsearch,mongoDB,mySQL,...
