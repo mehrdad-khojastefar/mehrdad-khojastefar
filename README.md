@@ -1,9 +1,5 @@
 ## Curious Software Enginner
-### In ❤️ with 
-  - Python,Go,C,C++
-  - Databases : elasticsearch,mongoDB,mySQL,...
-  - Operating systems and kernels 🐧
-  - ...
+### In ❤️ with anything tech-related
  
 <!--
   GITHUB STATUS
