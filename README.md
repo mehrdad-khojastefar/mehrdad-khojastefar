@@ -1,6 +1,4 @@
-## Curious Software Enginner
-### In ❤️ with anything tech-related
- 
+## Curious Software Enginner 
 <!--
   GITHUB STATUS
 ![](https://raw.githubusercontent.com/mehrdad-khojastefar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
